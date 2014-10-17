@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sae:home|Door43 (sae)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sae|d43-sae repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sae/archive/master.zip|d43-sae.zip]]
+
+**Recent Changes**
+{{changes>ns = sae}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sae|Ethnologue data]]
+
